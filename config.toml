@@ -1,6 +1,6 @@
 baseURL = "https://sim-coding.github.io/bll/"
 languageCode = "de"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = ""
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
