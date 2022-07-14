@@ -25,5 +25,8 @@
   --outlinegray: #343434 !important;
 }
 
-
-
+.mainTOC {
+  background: var(--lightgray);
+  border-radius: 5px;
+  padding: 0.75em 1em;
+}
