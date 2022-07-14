@@ -1,4 +1,10 @@
-# Quartz
+# BLL
+
+## Mengenlehre
+
+## Erster Gödelscher Unvollständigkeitssatz
+
+## Vieles Mehr
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 
