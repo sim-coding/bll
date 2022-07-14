@@ -10,7 +10,7 @@
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
-          Last updated {{ partial "date-fmt.html" .}} 
+          Zuletzt bearbeitet am {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unbekannt{{end}}. 
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">
