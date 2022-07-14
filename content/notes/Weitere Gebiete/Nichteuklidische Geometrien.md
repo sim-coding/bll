@@ -2,6 +2,8 @@
 title: "Nichteuklidische Geometrien"
 ---
 
+# Nichteuklidische Geometrien
+
 ## Das Parallelenaxiom
 Ist von den anderen Axiomen der Euklidischen Geometrie unabhängig, ähnlich wie die [Kontinuumshypotese](notes/BUCH%20der%20Beweise/Kontinuumshypotese.md) von den Axiomen der [Zermelo-Fraenkel-Mengenlehre](notes/Mengenlehre/Zermelo-Fraenkel-Mengenlehre.md).
 
