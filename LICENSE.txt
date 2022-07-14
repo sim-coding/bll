@@ -1,3 +1,5 @@
+-- The initial code to this (forked) repository, that can be found under https://github.com/jackyzha0/quartz, was subject to the following copyright and license: --
+
 MIT License
 
 Copyright (c) 2021 jackyzha0
@@ -19,3 +21,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-- To all changes to jackyzha0's initial code contained in this repository including without limitation the files contained within the top-level "content"-folder, however, no license is granted and the following copyright applies: --
+
+Copyright (c) 2022 Simon Ament
