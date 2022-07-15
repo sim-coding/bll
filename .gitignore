@@ -5,3 +5,6 @@ resources
 content/.obsidian
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
+
+data/contentIndex.json
+data/linkIndex.json
