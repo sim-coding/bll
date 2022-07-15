@@ -19,8 +19,6 @@ page_title:
 links:
   - link_name: Github
     link: https://github.com/sim-coding/bll
-  - link_name: Website
-    link: https://simonament.de
 favicon: |
   <link rel="apple-touch-icon" sizes="180x180" href="/bll/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/bll/favicon-32x32.png">
