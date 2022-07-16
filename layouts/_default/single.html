@@ -10,8 +10,7 @@
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
-          <!--Zuletzt bearbeitet am {{if ne .Date .Lastmod}}{{ partial "date.html" (dict "date" .Lastmod) }}
-          {{else}}Unbekannt{{end}} -->
+          <!-- Kein Zuletzt bearbeitet am -->
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">

@@ -1,1 +1,7 @@
-{{ .date.Day }}. {{ index site.Data.monate (printf "%d" .date.Month) }} {{ .date.Year }}
+{{if .Date}}
+{{ .Date.Day }}. {{ index site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}
+{{else if .Lastmod}}
+{{ .Lastmod.Day }}. {{ index site.Data.monate (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }}
+{{else}}
+Unbekannt
+{{end}}
