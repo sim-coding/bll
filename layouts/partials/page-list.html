@@ -3,7 +3,7 @@
     <li class="section-li">
         <div class="section">
             <p class="meta">
-                {{if ne .Date .Lastmod}}{{ partial "date.html" (dict "date" .Lastmod) }}{{else}}Unbekannt{{end}}
+                {{ partial "date.html" . }}
             </p>
             <div class="desc">
                 <h3><a href="{{ .Permalink }}">{{- .Title -}}</a></h3>
