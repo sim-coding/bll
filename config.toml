@@ -1,4 +1,4 @@
-baseURL = "https://bll.simonament.de"
+baseURL = "https://bll.simonament.de/"
 languageCode = "de"
 googleAnalytics = ""
 relativeURLs = false
